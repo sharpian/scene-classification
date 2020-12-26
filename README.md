@@ -8,8 +8,9 @@ cricket videos dataset from youtube.
 For performance evaluations, we have selected various sports videos from YouTube™, considering different series and different lighting conditions. Our dataset consists of the following videos. Cricket 2014 New Zealand v South Africa 1st ODI Highlights - YouTube [29], World Record 438 Match-South Africa vs. Australia- Part 2 - YouTube [30], Pakistan vs. Australia 3rd ODI Full Highlights - YouTube [31], 1st ODI: Pakistan vs. Australia HD Full Highlights - YouTube [32].
 
 # Results
+ 
 
-#Citation
+# Citation
 Rafiq, M.; Rafiq, G.; Agyeman, R.; Choi, G.S.; Jin, S.-I. Scene Classification for Sports Video Summarization Using Transfer Learning. Sensors 2020, 20, 1702.
 Sensors 2020, 20(6), 1702; https://doi.org/10.3390/s20061702
 
